@@ -4,7 +4,9 @@ Práctica de Abogabot Frontend
 Toma de Requerimientos
 
 Proyecto: Abogabot
-Descripcion de la solicitud 
+
+Descripcion de la solicitud
+
 Usuario Solicitante: Página web que permita a un cliente enviar una solicitud de 
 demanda y mediante la cual pueda realizar el pago de la misma, adicionalmente que el cliente 
 pueda crear una cuenta para poder monitorizar las etapas que cursa el proceso de su demanda 
