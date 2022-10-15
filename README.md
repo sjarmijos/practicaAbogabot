@@ -32,5 +32,50 @@ base de Azul marino y blanco.
 
 2. Modelamiento de Negocio
 
-[![imagen-2022-10-15-154401052.png](https://i.postimg.cc/PqjL59L0/imagen-2022-10-15-154401052.png)](https://postimg.cc/nX3VddG1)
+![mn](https://user-images.githubusercontent.com/94262007/196007040-454537fd-4bbe-4eb5-b0da-b5cde90b7a75.png)
+
+3. Términos de referencia
+
+Alcance de la solución
+
+Esta página permite específicamente automatizar el proceso para solicitar a un abogado iniciar procedimientos 
+correspondientes para realizar una demanda y de igual manera realizar el pago adecuado y especificado por el 
+administrador, adicionalmente esta página no permite omitir los procesos presenciales y obligatorios a realizar
+tanto por el cliente como por el administrador, mismos que deben ser realizados ya que sin ellos no se puede
+avanzar en el proceso de demanda
+
+Requerimientos Funcionales y criterios de aceptación y Requerimientos no Funcionales y de calidad 
+
+Dentro de esta pagina se espera que se maneje una interfaz basada en los colores azul marino y blanco a la cual 
+se pueda acceder mediante un computador y también un celular, además es imperativo que tanto cliente como 
+administrador tengan sus propias interfaces donde cada uno pueda tener sus opciones de seguimiento e interacción 
+correspondientes a su rol en la página.
+
+4. Interesado en la solución
+
+Administrador: 
+
+•	Debe validar que su interfaz le permite realizar todas las acciones necesarias para poder acceder a la información pertinente y también debe poder agregar comentarios y actualizar el estado de las demandas.
+
+•	De manera adicional también debería dar su aprobación de como es la interfaz del cliente para que el mismo pueda ingresar toda la información necesaria para poder iniciar un proceso de demanda.
+
+5. Requisitos Técnicos
+
+Tipo de desarrollo: web
+
+Bases de datos: MySQL ver: 8.0
+
+Lenguaje: Javascript
+
+
+6. FASE DE PLANEACIÓN Y GERENCIA DEL PROYECTO
+
+![image](https://user-images.githubusercontent.com/94262007/196007294-33e3fc2f-6aaa-4dfb-8d05-0227cfeab057.png)
+
+7. Diagrama de planeación
+
+![image](https://user-images.githubusercontent.com/94262007/196007310-f897567a-b822-4075-b9ee-206403e2ef41.png)
+
+
+NOTA: Las fechas de planeación establecidas en este documento son aproximadas y estarán sujetas a modificaciones que surjan por control de cambios u otros factores. 
 
