@@ -1,13 +1,13 @@
-# practica Abogabot
+# Práctica Abogabot
 Práctica de Abogabot Frontend
 
 
 Práctica AbogaBot
 
-Toma de Requerimientos
+##Toma de Requerimientos
 
 Proyecto: Abogabot
-Descripcion de la solicitud 
+###Descripcion de la solicitud 
 Usuario Solicitante: Página web que permita a un cliente enviar una solicitud de 
 demanda y mediante la cual pueda realizar el pago de la misma, adicionalmente que el cliente 
 pueda crear una cuenta para poder monitorizar las etapas que cursa el proceso de su demanda 
@@ -29,5 +29,7 @@ actualizar el estado de la demanda y mantener informado al cliente por esta vía
 debe contar con diseño responsive para ser visualizada en cualquier dispositivo y con los colores 
 base de Azul marino y blanco.
 
-Modelamiento de Negocio
+##Modelamiento de Negocio
+
+[![imagen-2022-10-15-154401052.png](https://i.postimg.cc/PqjL59L0/imagen-2022-10-15-154401052.png)](https://postimg.cc/nX3VddG1)
 
