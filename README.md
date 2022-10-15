@@ -28,3 +28,6 @@ formulario), a los cuales podrá realizar los tramites necesarios y agregar come
 actualizar el estado de la demanda y mantener informado al cliente por esta vía, esta pagina 
 debe contar con diseño responsive para ser visualizada en cualquier dispositivo y con los colores 
 base de Azul marino y blanco.
+
+Modelamiento de Negocio
+
